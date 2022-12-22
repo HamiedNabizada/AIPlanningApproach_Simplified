@@ -1,0 +1,142 @@
+{
+    "robots": [
+      {
+        "id": "Robot1",     
+        "currentLocation": "Loc00",
+        "capabilites": ["picking", "move"] 
+      },
+      {
+        "id": "Robot2",
+        "currentLocation": "Loc02",
+        "capabilites": ["transporting", "move"]
+      }
+    ],
+    "workingpoints": [
+      {
+        "id": "Loc00",
+        "x": 0.0,
+        "y": 0.0,
+        "tasks": []
+      },
+      {
+        "id": "Loc10",
+        "x": 1.0,
+        "y": 0.0,
+        "tasks": []
+      },
+      {
+        "id": "Loc20",
+        "x": 2.0,
+        "y": 0.0,
+        "tasks": []
+      },
+      {
+        "id": "Loc30",
+        "x": 3.0,
+        "y": 0.0,
+        "tasks": []
+      },
+      {
+        "id": "Loc40",
+        "x": 4.0,
+        "y": 0.0,
+        "tasks": []
+      },
+      {
+        "id": "Loc50",
+        "x": 5.0,
+        "y": 0.0,
+        "tasks": []
+      },
+      {
+        "id": "Loc60",
+        "x": 6.0,
+        "y": 0.0,
+        "tasks": []
+      },
+      {
+        "id": "Loc01",
+        "x": 0.0,
+        "y": 1.0,
+        "tasks": []
+      },
+      {
+        "id": "Loc11",
+        "x": 1.0,
+        "y": 1.0,
+        "tasks": []
+      },
+      {
+        "id": "Loc21",
+        "x": 2.0,
+        "y": 1.0,
+        "tasks": []
+      },
+      {
+        "id": "Loc31",
+        "x": 3.0,
+        "y": 1.0,
+        "tasks": []
+      },
+      {
+        "id": "Loc41",
+        "x": 4.0,
+        "y": 1.0,
+        "tasks": []
+      },
+      {
+        "id": "Loc51",
+        "x": 5.0,
+        "y": 1.0,
+        "tasks": []
+      },
+      {
+        "id": "Loc61",
+        "x": 6.0,
+        "y": 1.0,
+        "tasks": []
+      },
+      {
+        "id": "Loc02",
+        "x": 0.0,
+        "y": 2.0,
+        "tasks": []
+      },
+      {
+        "id": "Loc12",
+        "x": 1.0,
+        "y": 2.0,
+        "tasks": []
+      },
+      {
+        "id": "Loc22",
+        "x": 2.0,
+        "y": 2.0,
+        "tasks": []
+      },
+      {
+        "id": "Loc32",
+        "x": 3.0,
+        "y": 2.0,
+        "tasks": []
+      },
+      {
+        "id": "Loc42",
+        "x": 4.0,
+        "y": 2.0,
+        "tasks": []
+      },
+      {
+        "id": "Loc52",
+        "x": 5.0,
+        "y": 2.0,
+        "tasks": []
+      },
+      {
+        "id": "Loc62",
+        "x": 6.0,
+        "y": 2.0,
+        "tasks": []
+      }
+    ]
+  }
